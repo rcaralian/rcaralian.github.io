@@ -1,0 +1,75 @@
+.intro {
+    background-image: url(/images/hero.jpg);
+    background-position: center;
+    height: 100vh;
+    width: auto;
+}
+
+.intro-content {
+    margin-top: 60vh;
+    color: #535F7F;
+    border: 2px solid #535F7F;
+    padding: 2em;
+}
+
+.about-content {
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    color: #0F0C0D;
+}
+
+.skills {
+    text-align: center;
+    background-color: #D1D1D1;
+    color: #808188;
+}
+
+.skills-desc {
+    padding-top: 10rem;
+}
+
+
+.skills-content {
+    padding-bottom: 10rem; 
+}
+
+.skills img {
+    padding: 5rem;
+}
+
+.projects {
+    background-color: #FFF;
+}
+
+.projects {
+    text-align: center;
+}
+
+.projects-desc {
+    padding-top: 10rem;
+    padding-bottom: 5rem;
+    color: ##0F0C0D;
+}
+
+.projects-content {
+    padding-bottom: 10rem;
+}
+
+.contact {
+    background-color: #535F7F; 
+    text-align: center;
+}
+
+.contact-desc {
+    color: #18132D;
+    padding-top: 10rem;
+}
+
+.contact-content {
+    color: #18132D;
+    padding-bottom: 10rem;
+}
+
+.contact-content h5 {
+    color: #FFF;
+}
